@@ -1,0 +1,14 @@
+styles.css/* styles.css */
+#playlist-container, #chat-container {
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+input[type="text"], button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#playlist li, #chat-messages li {
+  margin-bottom: 5px;
+}
